@@ -2,8 +2,8 @@ import java.util.Scanner;
 /**
  * This application converts between various units of measurement.
  *
- * @author Tim Gesell
- * @version 8/21/2022
+ * @author Alex Spuhler
+ * @version 8/20/2025
  */
 public class Conversions
 {
@@ -17,6 +17,8 @@ public class Conversions
         System.out.println("4. Meters to Feet");
         System.out.println("5. Ounces to Milliliters");
         System.out.println("6. Milliliters to Ounces");
+        System.out.println("7. Meters to kiloMeters");
+        System.out.println("8. Kilometers to meters");
         //Add 2 more conversions, each both ways, to add choices 7, 8, 9, and 10.
         //You can add even more if you would like.
 
