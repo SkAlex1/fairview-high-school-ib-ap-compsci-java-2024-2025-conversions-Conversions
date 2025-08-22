@@ -35,7 +35,11 @@ public class Conversions
         }
         if (selection == 2)
         {
-            //add the code to ask the user to enter Fahrenheit and then convert to Celsius
+            System.out.println("Enter fahrenheit: ");
+            double fahrenheit = keyboard.nextDouble();
+            keyboard.nextLine();
+            double celcius = fahrenheit/ (9.0/5.0) + 32
+            System.out.println(fahrenheit + " degrees fahrenheit is " +  celcius " degrees celcius")
         }
         //add more if statements here.
     }
