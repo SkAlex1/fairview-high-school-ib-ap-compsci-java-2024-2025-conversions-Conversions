@@ -5,7 +5,7 @@ import java.util.Scanner;
  * @author Alex Spuhler
  * @version 8/20/2025
  */
-public class Conversions
+public class Conversions //contains all conversions
 {
     public static void main(String[] args)
     {
